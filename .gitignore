@@ -1,0 +1,5 @@
+/secrets/kafka.keystore.jks
+/secrets/kafka.truststore.jks
+
+.DS_Store
+/node_modules/
